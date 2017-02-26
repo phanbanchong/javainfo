@@ -1,0 +1,46 @@
+name=jdk1.8.0_112
+alias=jdk1.8.0_112
+priority=1082
+section=main
+
+hl rmid /usr/lib/jvm/jdk1.8.0_112/bin/rmid
+hl java /usr/lib/jvm/jdk1.8.0_112/bin/java
+hl keytool /usr/lib/jvm/jdk1.8.0_112/bin/keytool
+hl jjs /usr/lib/jvm/jdk1.8.0_112/bin/jjs
+hl pack200 /usr/lib/jvm/jdk1.8.0_112/bin/pack200
+hl rmiregistry /usr/lib/jvm/jdk1.8.0_112/bin/rmiregistry
+hl unpack200 /usr/lib/jvm/jdk1.8.0_112/bin/unpack200
+hl orbd /usr/lib/jvm/jdk1.8.0_112/bin/orbd
+hl servertool /usr/lib/jvm/jdk1.8.0_112/bin/servertool
+hl tnameserv /usr/lib/jvm/jdk1.8.0_112/bin/tnameserv
+hl jexec /usr/lib/jvm/jdk1.8.0_112/jre/lib/jexec
+jre policytool /usr/lib/jvm/jdk1.8.0_112/bin/policytool
+jdkhl idlj /usr/lib/jvm/jdk1.8.0_112/bin/idlj
+jdkhl jdeps /usr/lib/jvm/jdk1.8.0_112/bin/jdeps
+jdkhl wsimport /usr/lib/jvm/jdk1.8.0_112/bin/wsimport
+jdkhl rmic /usr/lib/jvm/jdk1.8.0_112/bin/rmic
+jdkhl jinfo /usr/lib/jvm/jdk1.8.0_112/bin/jinfo
+jdkhl jsadebugd /usr/lib/jvm/jdk1.8.0_112/bin/jsadebugd
+jdkhl native2ascii /usr/lib/jvm/jdk1.8.0_112/bin/native2ascii
+jdkhl jstat /usr/lib/jvm/jdk1.8.0_112/bin/jstat
+jdkhl javadoc /usr/lib/jvm/jdk1.8.0_112/bin/javadoc
+jdkhl javah /usr/lib/jvm/jdk1.8.0_112/bin/javah
+jdkhl jstack /usr/lib/jvm/jdk1.8.0_112/bin/jstack
+jdkhl jrunscript /usr/lib/jvm/jdk1.8.0_112/bin/jrunscript
+jdkhl javac /usr/lib/jvm/jdk1.8.0_112/bin/javac
+jdkhl javap /usr/lib/jvm/jdk1.8.0_112/bin/javap
+jdkhl jar /usr/lib/jvm/jdk1.8.0_112/bin/jar
+jdkhl extcheck /usr/lib/jvm/jdk1.8.0_112/bin/extcheck
+jdkhl schemagen /usr/lib/jvm/jdk1.8.0_112/bin/schemagen
+jdkhl jps /usr/lib/jvm/jdk1.8.0_112/bin/jps
+jdkhl xjc /usr/lib/jvm/jdk1.8.0_112/bin/xjc
+jdkhl jmap /usr/lib/jvm/jdk1.8.0_112/bin/jmap
+jdkhl jstatd /usr/lib/jvm/jdk1.8.0_112/bin/jstatd
+jdkhl jhat /usr/lib/jvm/jdk1.8.0_112/bin/jhat
+jdkhl jdb /usr/lib/jvm/jdk1.8.0_112/bin/jdb
+jdkhl serialver /usr/lib/jvm/jdk1.8.0_112/bin/serialver
+jdkhl wsgen /usr/lib/jvm/jdk1.8.0_112/bin/wsgen
+jdkhl jcmd /usr/lib/jvm/jdk1.8.0_112/bin/jcmd
+jdkhl jarsigner /usr/lib/jvm/jdk1.8.0_112/bin/jarsigner
+jdk appletviewer /usr/lib/jvm/jdk1.8.0_112/bin/appletviewer
+jdk jconsole /usr/lib/jvm/jdk1.8.0_112/bin/jconsole
